@@ -6,11 +6,7 @@ import 'package:melos_dependency_graph/src/command_runner.dart';
 import 'package:melos_dependency_graph/src/version.dart';
 import 'package:pub_updater/pub_updater.dart';
 
-/// {@template update_command}
-/// A command which updates the CLI.
-/// {@endtemplate}
 class UpdateCommand extends Command<int> {
-  /// {@macro update_command}
   UpdateCommand({
     required Logger logger,
     PubUpdater? pubUpdater,

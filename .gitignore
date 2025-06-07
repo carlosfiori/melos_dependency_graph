@@ -10,6 +10,9 @@ pubspec.lock
 .test_coverage.dart
 coverage/
 .test_runner.dart
+test/full_coverage_test.dart
 
 # Android studio and IntelliJ
 .idea
+
+deps.json
