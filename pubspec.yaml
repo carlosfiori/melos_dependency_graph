@@ -1,7 +1,7 @@
 name: melos_dependency_graph
 description: A powerful CLI tool for analyzing and visualizing dependency graphs in Melos-managed Dart/Flutter monorepos with topological sorting and cycle detection.
 
-version: 1.0.0
+version: 1.0.1
 
 repository: https://github.com/carlosfiori/melos_dependency_graph
 issue_tracker: https://github.com/carlosfiori/melos_dependency_graph/issues
